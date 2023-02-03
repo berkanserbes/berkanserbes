@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkan Serbes</h1>
 
-<img src="https://komarev.com/ghpvc/?username=berkanserbes&label=Profile%20views&color=0047AB&style=plastic?" alt="profile-views" height=25px, width=130px/> <a href="https://github.com/berkanserbes?tab=followers"><img src="https://img.shields.io/github/followers/berkanserbes.svg?style=social&label=Follow" style="height:25px; margin-left: 10px"></a>
+<img src="https://komarev.com/ghpvc/?username=berkanserbes&label=Profile%20views&color=0047AB&style=plastic?" alt="profile-views" height=25px, width=130px/> <a href="https://github.com/berkanserbes?tab=followers"><img alt="Github Followers" src="https://img.shields.io/github/followers/berkanserbes?style=social" style="height:25px; margin-left: 10px"></a>
 
 ## :man_technologist: About Me
 
