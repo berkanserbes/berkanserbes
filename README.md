@@ -21,6 +21,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+
 ## :eyes: Connect with me
 
 <p align="left"> 
@@ -29,6 +30,10 @@
     <a href="http://www.medium.com/@berkanserbes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32" height="32" /></a>
     <a href="mailto:berkanserbes3@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="32" height="32"></a>
 </p>
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 
