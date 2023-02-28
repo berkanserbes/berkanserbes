@@ -31,7 +31,7 @@
     <a href="mailto:berkanserbes3@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="32" height="32"></a>
 </p>
 
-## Latest Blog Posts
+## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
