@@ -33,6 +33,7 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Array Metotları](https://medium.com/@berkanserbes/javascript-array-metotlar%C4%B1-7e6d425b1bb3?source=rss-6300fe4bff09------2)
 - [JavaScript String Metotları](https://medium.com/@berkanserbes/javascript-string-metotlar%C4%B1-e2f51e7a7040?source=rss-6300fe4bff09------2)
 - [Konsol Metodları &lpar;Console Methods&rpar;](https://medium.com/@berkanserbes/konsol-metodlar%C4%B1-console-methods-9ab6d6d7e6b5?source=rss-6300fe4bff09------2)
 - [Google’da Arama Teknikleri](https://medium.com/@berkanserbes/googleda-arama-teknikleri-69780f08c9ac?source=rss-6300fe4bff09------2)
