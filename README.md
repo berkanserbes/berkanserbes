@@ -6,7 +6,7 @@
 
 - :mortar_board: I'm currently Computer Engineering student at Bursa Technical University.
 - :computer: I'm interested in Web development.
-- :brain: I'm currently learning these following technologies: Javascript, ReactJs, SASS/SCSS, Tailwind CSS.
+- :brain: I'm currently learning these following technologies: React.js, Next.js, TypeScript.
 - :envelope_with_arrow: You can contact me at [berkanserbes3@gmail.com](mailto:berkanserbes3@gmail.com)
 
 ## :computer: Languages and Tools
@@ -14,9 +14,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=bluek&labelColor=black&color=black&style=for-the-badge)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
