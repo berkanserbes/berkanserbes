@@ -31,6 +31,7 @@
     <a href="https://www.linkedin.com/in/berkanserbes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32" height="32" /></a>
     <a href="https://www.github.com/berkanserbes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
     <a href="http://www.medium.com/@berkanserbes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32" height="32" /></a>
+    <a href="https://leetcode.com/berkanserbes/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" width="32" height="32" /></a>
     <a href="mailto:berkanserbes3@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="32" height="32"></a>
 </p>
 
