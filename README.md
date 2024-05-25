@@ -6,23 +6,30 @@
 
 - :mortar_board: I'm currently Computer Engineering student at Bursa Technical University.
 - :computer: I'm interested in Web development.
-- :envelope_with_arrow: You can contact me at [berkanserbes3@gmail.com](mailto:berkanserbes3@gmail.com)
+- :envelope_with_arrow: You can contact me via [berkanserbes3@gmail.com](mailto:berkanserbes3@gmail.com)
 
 ## :computer: Tech Stack
+### Frontend 
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&color=white&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=bluek&labelColor=black&color=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Backend 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&color=white&logoColor=black)
+
+### Mobile 
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-grey?style=for-the-badge&color=purple)
+
+### Other
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
@@ -30,11 +37,11 @@
 ## :eyes: Connect with me
 
 <p align="left"> 
-    <a href="https://www.linkedin.com/in/berkanserbes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32" height="32" /></a>
-    <a href="https://www.github.com/berkanserbes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
-    <a href="http://www.medium.com/@berkanserbes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32" height="32" /></a>
-    <a href="https://leetcode.com/berkanserbes/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" width="32" height="32" /></a>
-    <a href="mailto:berkanserbes3@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="32" height="32"></a>
+    <a href="https://www.linkedin.com/in/berkanserbes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="http://www.medium.com/@berkanserbes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://leetcode.com/berkanserbes/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"  /></a>
+    <a href="https://stackoverflow.com/users/13417979/berkan-serbes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+    <a href="mailto:berkanserbes3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## :pencil: Latest Blog Posts
