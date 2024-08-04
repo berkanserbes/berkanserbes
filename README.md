@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Objects](https://medium.com/@berkanserbes/javascript-objects-c389b1bece6c?source=rss-6300fe4bff09------2)
 - [JavaScript Promise](https://medium.com/@berkanserbes/javascript-promise-e903fc1b7177?source=rss-6300fe4bff09------2)
 - [Node.js Stream API](https://medium.com/@berkanserbes/node-js-stream-api-175d53103bf8?source=rss-6300fe4bff09------2)
 - [Git Komutları - 2](https://medium.com/@berkanserbes/git-komutlar%C4%B1-2-f8df257aa791?source=rss-6300fe4bff09------2)
 - [Git Komutları - 1](https://medium.com/@berkanserbes/git-komutlar%C4%B1-1-b43b85380fb8?source=rss-6300fe4bff09------2)
-- [JavaScript Array Metotları](https://medium.com/@berkanserbes/javascript-array-metotlar%C4%B1-7e6d425b1bb3?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
