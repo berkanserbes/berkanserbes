@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sıralama Algoritmaları: Selection Sort](https://medium.com/@berkanserbes/s%C4%B1ralama-algoritmalar%C4%B1-selection-sort-f4b9fcfda8e9?source=rss-6300fe4bff09------2)
 - [How to send files between Linux and Windows Operation System](https://medium.com/@berkanserbes/how-to-send-files-between-linux-and-windows-operation-system-865fd2b5e760?source=rss-6300fe4bff09------2)
 - [Sıralama Algoritmaları: Bubble Sort](https://medium.com/@berkanserbes/s%C4%B1ralama-algoritmalar%C4%B1-bubble-sort-5f3d83c15909?source=rss-6300fe4bff09------2)
 - [JavaScript Objects](https://medium.com/@berkanserbes/javascript-objects-c389b1bece6c?source=rss-6300fe4bff09------2)
 - [JavaScript Promise](https://medium.com/@berkanserbes/javascript-promise-e903fc1b7177?source=rss-6300fe4bff09------2)
-- [Node.js Stream API](https://medium.com/@berkanserbes/node-js-stream-api-175d53103bf8?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
