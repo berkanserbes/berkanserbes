@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NPM vs NPX: Understanding the Differences and When to Use Them](https://medium.com/@berkanserbes/npm-vs-npx-understanding-the-differences-and-when-to-use-them-91b75f3872ca?source=rss-6300fe4bff09------2)
 - [Arama Algoritmaları: Binary Search](https://medium.com/@berkanserbes/arama-algoritmalar%C4%B1-binary-search-59bcf6bb7c73?source=rss-6300fe4bff09------2)
 - [Arama Algoritmaları: Linear Search](https://medium.com/@berkanserbes/arama-algoritmalar%C4%B1-linear-search-aa0c3b770a8c?source=rss-6300fe4bff09------2)
 - [Sıralama Algoritmaları: Insertion Sort](https://medium.com/@berkanserbes/s%C4%B1ralama-algoritmalar%C4%B1-insertion-sort-02230e5ac5ad?source=rss-6300fe4bff09------2)
 - [Sıralama Algoritmaları: Selection Sort](https://medium.com/@berkanserbes/s%C4%B1ralama-algoritmalar%C4%B1-selection-sort-f4b9fcfda8e9?source=rss-6300fe4bff09------2)
-- [How to send files between Linux and Windows Operation System](https://medium.com/@berkanserbes/how-to-send-files-between-linux-and-windows-operation-system-865fd2b5e760?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
