@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explained Shallow Copy and Deep Copy : Key Concepts, Differences, and Practical Use Cases](https://javascript.plainenglish.io/explained-shallow-copy-and-deep-copy-key-concepts-differences-and-practical-use-cases-1a99b6e5df58?source=rss-6300fe4bff09------2)
 - [How to Enable Props Suggestions &lpar;Autocomplete&rpar; for JSX and TSX in VSCode](https://javascript.plainenglish.io/how-to-enable-props-suggestions-autocomplete-for-jsx-and-tsx-in-vscode-4874cc7ebf9c?source=rss-6300fe4bff09------2)
 - [Integrate FontAwesome Icons in .NET MAUI](https://blog.stackademic.com/integrate-fontawesome-icons-in-net-maui-921aecfdf95d?source=rss-6300fe4bff09------2)
 - [JavaScript’te Spread ve Rest Operatörleri](https://medium.com/@berkanserbes/javascriptte-spread-ve-rest-operat%C3%B6rleri-d41cd9b57613?source=rss-6300fe4bff09------2)
 - [NPM vs NPX: Understanding the Differences and When to Use Them](https://javascript.plainenglish.io/npm-vs-npx-understanding-the-differences-and-when-to-use-them-91b75f3872ca?source=rss-6300fe4bff09------2)
-- [Arama Algoritmaları: Binary Search](https://medium.com/@berkanserbes/arama-algoritmalar%C4%B1-binary-search-59bcf6bb7c73?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
