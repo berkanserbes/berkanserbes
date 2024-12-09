@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Closure](https://javascript.plainenglish.io/javascript-closure-e376e6825113?source=rss-6300fe4bff09------2)
 - [Object Relationships](https://blog.stackademic.com/object-relationship-5271c1fbfda9?source=rss-6300fe4bff09------2)
 - [Understanding Scope in JavaScript: The Complete Guide](https://javascript.plainenglish.io/understanding-scope-in-javascript-the-complete-guide-808968da41d1?source=rss-6300fe4bff09------2)
 - [A Deep Dive into Map, Set, WeakMap, and WeakSet in JavaScript](https://javascript.plainenglish.io/a-deep-dive-into-map-set-weakmap-and-weakset-in-javascript-b5816e290639?source=rss-6300fe4bff09------2)
 - [Explained Shallow Copy and Deep Copy : Key Concepts, Differences, and Practical Use Cases](https://javascript.plainenglish.io/explained-shallow-copy-and-deep-copy-key-concepts-differences-and-practical-use-cases-1a99b6e5df58?source=rss-6300fe4bff09------2)
-- [How to Enable Props Suggestions &lpar;Autocomplete&rpar; for JSX and TSX in VSCode](https://javascript.plainenglish.io/how-to-enable-props-suggestions-autocomplete-for-jsx-and-tsx-in-vscode-4874cc7ebf9c?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
