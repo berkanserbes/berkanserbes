@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide of JWT &lpar;Json Web Token&rpar;](https://javascript.plainenglish.io/the-complete-guide-of-jwt-json-web-token-af804beea799?source=rss-6300fe4bff09------2)
 - [Content Delivery Networks &lpar;CDNs&rpar;: The Invisible Force Behind a Faster Internet](https://blog.stackademic.com/content-delivery-networks-cdns-the-invisible-force-behind-a-faster-internet-de2eb6a93ca5?source=rss-6300fe4bff09------2)
 - [Understanding Development, Testing, Staging, and Production Environments in Software](https://blog.stackademic.com/understanding-development-testing-staging-and-production-environments-in-software-a6da6c655496?source=rss-6300fe4bff09------2)
 - [OOP Principles](https://blog.stackademic.com/oop-principles-101f55963959?source=rss-6300fe4bff09------2)
 - [JavaScript Closure](https://javascript.plainenglish.io/javascript-closure-e376e6825113?source=rss-6300fe4bff09------2)
-- [Object Relationships](https://blog.stackademic.com/object-relationship-5271c1fbfda9?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
