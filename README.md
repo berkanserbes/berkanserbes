@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into JavaScript Generators](https://javascript.plainenglish.io/a-deep-dive-into-javascript-generators-b000fb2bdef1?source=rss-6300fe4bff09------2)
 - [Sıralama Algoritmaları: Quick Sort](https://medium.com/@berkanserbes/s%C4%B1ralama-algoritmalar%C4%B1-quick-sort-d3990aae9d5a?source=rss-6300fe4bff09------2)
 - [Client-Side Rendering &lpar;CSR&rpar;, Server-Side Rendering &lpar;SSR&rpar;, Static Site Generation &lpar;SSG&rpar; and…](https://blog.stackademic.com/client-side-rendering-csr-server-side-rendering-ssr-static-site-generation-ssg-and-b9beb53b37d3?source=rss-6300fe4bff09------2)
 - [The Complete Guide of JWT &lpar;JSON Web Token&rpar;](https://javascript.plainenglish.io/the-complete-guide-of-jwt-json-web-token-af804beea799?source=rss-6300fe4bff09------2)
 - [Content Delivery Networks &lpar;CDNs&rpar;: The Invisible Force Behind a Faster Internet](https://blog.stackademic.com/content-delivery-networks-cdns-the-invisible-force-behind-a-faster-internet-de2eb6a93ca5?source=rss-6300fe4bff09------2)
-- [Understanding Development, Testing, Staging, and Production Environments in Software](https://blog.stackademic.com/understanding-development-testing-staging-and-production-environments-in-software-a6da6c655496?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
