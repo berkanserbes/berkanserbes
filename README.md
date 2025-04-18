@@ -46,11 +46,11 @@
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code Bölüm 2: Anlamlı İsimlendirme](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-2-anlaml%C4%B1-i%CC%87simlendirme-61ccd2efdfab?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 1: Temiz Kod Nedir?](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-1-temiz-kod-nedir-51bb145ef72a?source=rss-6300fe4bff09------2)
 - [Understanding the Partial Keyword in C#](https://blog.stackademic.com/understanding-the-partial-keyword-in-c-3077573d07f4?source=rss-6300fe4bff09------2)
 - [Understanding the Override Keyword in C#](https://blog.stackademic.com/understanding-the-override-keyword-in-c-6a2dd8e60fc6?source=rss-6300fe4bff09------2)
 - [Understanding the Virtual Keyword in C#](https://blog.stackademic.com/understanding-the-virtual-keyword-in-c-8bb630c4c9ff?source=rss-6300fe4bff09------2)
-- [A Deep Dive into JavaScript Generators](https://javascript.plainenglish.io/a-deep-dive-into-javascript-generators-b000fb2bdef1?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
