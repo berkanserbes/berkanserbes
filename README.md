@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkan Serbes</h1>
-
-<img src="https://komarev.com/ghpvc/?username=berkanserbes&label=Profile%20views&color=0047AB&style=plastic?" alt="profile-views" height=25px, width=130px/> <a href="https://github.com/berkanserbes?tab=followers"><img alt="Github Followers" src="https://img.shields.io/github/followers/berkanserbes?style=social" style="height:25px; margin-left: 10px"></a>
+![Header](./github-header-image.png)
 
 ## :man_technologist: About Me
 
@@ -10,29 +8,18 @@
 
 ## :computer: Tech Stack
 ### Frontend 
-
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=bluek&labelColor=black&color=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next)](https://skillicons.dev)
 
 ### Backend 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&color=white&logoColor=black)
+[![Backend](https://skillicons.dev/icons?i=java,cs,dotnet,nodejs,express,)](https://skillicons.dev)
 
 ### Mobile 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-grey?style=for-the-badge&color=purple)
 
 ### Other
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Other](https://skillicons.dev/icons?i=docker,rabbitmq,git,postman,redis,mongo)](https://skillicons.dev)
+<!-- ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) -->
 
 ## :eyes: Connect with me
 
