@@ -8,10 +8,11 @@
 </p>
 
 ## :man_technologist: About Me
+Hi, I'm Berkan — a full-stack developer who enjoys building clean, efficient, and user-focused applications. I care about creating software that solves real problems and delivers real value.
 
-- :mortar_board: I'm currently Computer Engineering student at Bursa Technical University.
-- :computer: I'm interested in Web development.
-- :envelope_with_arrow: You can contact me via [berkanserbes3@gmail.com](mailto:berkanserbes3@gmail.com)
+For me, programming languages and frameworks are just tools. What matters most is understanding the fundamentals and using them to build scalable and reliable solutions.
+
+Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](http://www.medium.com/@berkanserbes) to explore new trends, reflect on real-world experiences, and contribute to the tech community.
 
 ## :computer: Tech Stack
 ### Frontend 
@@ -40,7 +41,7 @@
 <br>
 
 <details>
-<summary>Github stats</summary>
+<summary style="font-weight:bold">Github stats</summary>
 <img alt="Berkan's Github Stats" src="https://github-readme-stats-berkanserbes.vercel.app/api/?username=berkanserbes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0891b2&icon_color=0891b2" height="192px"/><img alt="Berkan's Top Languages" src="https://github-readme-stats-berkanserbes.vercel.app//api/top-langs/?username=berkanserbes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0891b2&icon_color=0891b2" height="192px"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkanserbes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="display:block;margin-left:auto; margin-right:auto;"/>
 </details>
 
