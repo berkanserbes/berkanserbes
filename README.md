@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Inversion Prensibini Anlamak](https://medium.com/@berkanserbes/dependency-inversion-prensibini-anlamak-35917207ff80?source=rss-6300fe4bff09------2)
 - [Inversion of Control &lpar;IoC&rpar; Prensibini Anlamak](https://medium.com/@berkanserbes/inversion-of-control-ioc-prensibini-anlamak-334d172adedf?source=rss-6300fe4bff09------2)
 - [Sistemler Arası Haberleşmenin Temel Taşı: Message Brokerlar](https://medium.com/@berkanserbes/sistemler-aras%C4%B1-mesajla%C5%9Fman%C4%B1n-temel-ta%C5%9F%C4%B1-message-brokerlar-c03bd148de34?source=rss-6300fe4bff09------2)
 - [Sıralama Algoritmaları: Merge Sort](https://medium.com/@berkanserbes/s%C4%B1ralama-algoritmalar%C4%B1-merge-sort-97c403e0887f?source=rss-6300fe4bff09------2)
 - [Understanding Middleware in Express.js](https://javascript.plainenglish.io/understanding-middleware-in-express-js-3e8475b5b30f?source=rss-6300fe4bff09------2)
-- [Clean Code Bölüm 2: Anlamlı İsimlendirme](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-2-anlaml%C4%B1-i%CC%87simlendirme-61ccd2efdfab?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
