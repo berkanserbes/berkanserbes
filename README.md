@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code Bölüm 3: Fonksiyonlar](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-3-fonksiyonlar-5e74bcaddb4b?source=rss-6300fe4bff09------2)
 - [RabbitMQ’ya Giriş: Temel Kavramlar ve Mesajlaşma Süreci](https://medium.com/@berkanserbes/rabbitmqya-giri%C5%9F-temel-kavramlar-ve-mesajla%C5%9Fma-s%C3%BCreci-8ee21f642574?source=rss-6300fe4bff09------2)
 - [Array Yetmez! Veri Yapılarının Dünyasına İlk Adım](https://medium.com/@berkanserbes/array-yetmez-veri-yap%C4%B1lar%C4%B1n%C4%B1n-d%C3%BCnyas%C4%B1na-i%CC%87lk-ad%C4%B1m-f7751e054743?source=rss-6300fe4bff09------2)
 - [Dependency Injection Prensibini Anlamak](https://medium.com/@berkanserbes/dependency-injection-prensibini-anlamak-1b9bc80395a9?source=rss-6300fe4bff09------2)
 - [Dependency Inversion Prensibini Anlamak](https://medium.com/@berkanserbes/dependency-inversion-prensibini-anlamak-35917207ff80?source=rss-6300fe4bff09------2)
-- [Inversion of Control &lpar;IoC&rpar; Prensibini Anlamak](https://medium.com/@berkanserbes/inversion-of-control-ioc-prensibini-anlamak-334d172adedf?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
