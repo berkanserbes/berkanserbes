@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ Exchange Türleri ve Binding Kavramı: Teoriden Pratiğe Kapsamlı Rehber](https://medium.com/@berkanserbes/rabbitmq-exchange-t%C3%BCrleri-ve-binding-kavram%C4%B1-teoriden-prati%C4%9Fe-kapsaml%C4%B1-rehber-6d8d00d84fc8?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 5: Biçimlendirme](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-5-bi%C3%A7imlendirme-f79437ee12ba?source=rss-6300fe4bff09------2)
 - [Design Pattern’lara Giriş](https://medium.com/@berkanserbes/design-patternlara-giri%C5%9F-be8319cc4719?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 4: Yorum Satırları](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-4-yorum-sat%C4%B1rlar%C4%B1-385b5ebf6381?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 3: Fonksiyonlar](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-3-fonksiyonlar-5e74bcaddb4b?source=rss-6300fe4bff09------2)
-- [RabbitMQ’ya Giriş: Temel Kavramlar ve Mesajlaşma Süreci](https://medium.com/@berkanserbes/rabbitmqya-giri%C5%9F-temel-kavramlar-ve-mesajla%C5%9Fma-s%C3%BCreci-8ee21f642574?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
