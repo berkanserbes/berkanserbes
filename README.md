@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creational Tasarım Desenleri: Factory Tasarım Deseni](https://medium.com/@berkanserbes/creational-tasar%C4%B1m-desenleri-factory-tasar%C4%B1m-deseni-f5858489167a?source=rss-6300fe4bff09------2)
 - [Creational Tasarım Desenleri: Singleton Tasarım Deseni](https://medium.com/@berkanserbes/creational-tasar%C4%B1m-desenleri-singleton-tasar%C4%B1m-deseni-e8f8281c18d4?source=rss-6300fe4bff09------2)
 - [RabbitMQ Exchange Türleri ve Binding Kavramı: Teoriden Pratiğe Kapsamlı Rehber](https://medium.com/@berkanserbes/rabbitmq-exchange-t%C3%BCrleri-ve-binding-kavram%C4%B1-teoriden-prati%C4%9Fe-kapsaml%C4%B1-rehber-6d8d00d84fc8?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 5: Biçimlendirme](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-5-bi%C3%A7imlendirme-f79437ee12ba?source=rss-6300fe4bff09------2)
 - [Design Pattern’lara Giriş](https://medium.com/@berkanserbes/design-patternlara-giri%C5%9F-be8319cc4719?source=rss-6300fe4bff09------2)
-- [Clean Code Bölüm 4: Yorum Satırları](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-4-yorum-sat%C4%B1rlar%C4%B1-385b5ebf6381?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
