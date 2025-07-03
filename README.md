@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CAP Teoremi: Dağıtık Sistemlerin Üçlü Açmazı](https://medium.com/@berkanserbes/cap-teoremi-da%C4%9F%C4%B1t%C4%B1k-sistemlerin-%C3%BC%C3%A7l%C3%BC-a%C3%A7maz%C4%B1-d0e73fea4a44?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 6: Nesneler ve Veri Yapıları](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-6-nesneler-ve-veri-yap%C4%B1lar%C4%B1-b8debe6750a8?source=rss-6300fe4bff09------2)
 - [Creational Tasarım Desenleri: Factory Tasarım Deseni](https://medium.com/@berkanserbes/creational-tasar%C4%B1m-desenleri-factory-tasar%C4%B1m-deseni-f5858489167a?source=rss-6300fe4bff09------2)
 - [Creational Tasarım Desenleri: Singleton Tasarım Deseni](https://medium.com/@berkanserbes/creational-tasar%C4%B1m-desenleri-singleton-tasar%C4%B1m-deseni-e8f8281c18d4?source=rss-6300fe4bff09------2)
 - [RabbitMQ Exchange Türleri ve Binding Kavramı: Teoriden Pratiğe Kapsamlı Rehber](https://medium.com/@berkanserbes/rabbitmq-exchange-t%C3%BCrleri-ve-binding-kavram%C4%B1-teoriden-prati%C4%9Fe-kapsaml%C4%B1-rehber-6d8d00d84fc8?source=rss-6300fe4bff09------2)
-- [Clean Code Bölüm 5: Biçimlendirme](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-5-bi%C3%A7imlendirme-f79437ee12ba?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
