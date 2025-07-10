@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code Bölüm 8: Sınırlar](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-8-s%C4%B1n%C4%B1rlar-eca04f68adfd?source=rss-6300fe4bff09------2)
 - [Creational Tasarım Desenleri: Abstract Factory Tasarım Deseni](https://medium.com/@berkanserbes/creational-tasar%C4%B1m-desenleri-abstract-factory-tasar%C4%B1m-deseni-64f56b64fa74?source=rss-6300fe4bff09------2)
 - [Understanding Ref and Out Keywords in C#](https://blog.stackademic.com/understanding-ref-and-out-keywords-in-c-379c28e12229?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 7: Hata Yönetimi](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-7-hata-y%C3%B6netimi-e1ef8664bfc8?source=rss-6300fe4bff09------2)
 - [CAP Teoremi: Dağıtık Sistemlerin Üçlü Açmazı](https://medium.com/@berkanserbes/cap-teoremi-da%C4%9F%C4%B1t%C4%B1k-sistemlerin-%C3%BC%C3%A7l%C3%BC-a%C3%A7maz%C4%B1-d0e73fea4a44?source=rss-6300fe4bff09------2)
-- [Clean Code Bölüm 6: Nesneler ve Veri Yapıları](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-6-nesneler-ve-veri-yap%C4%B1lar%C4%B1-b8debe6750a8?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
