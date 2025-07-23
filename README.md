@@ -31,7 +31,7 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creational Design Pattern: Builder Tasarım Deseni](https://medium.com/@berkanserbes/creational-design-pattern-builder-tasar%C4%B1m-deseni-c3ec90fe348d?source=rss-6300fe4bff09------2)
+- [Creational Tasarım Desenleri: Builder Tasarım Deseni](https://medium.com/@berkanserbes/creational-design-pattern-builder-tasar%C4%B1m-deseni-c3ec90fe348d?source=rss-6300fe4bff09------2)
 - [Repository Pattern](https://medium.com/@berkanserbes/repository-pattern-e377bc1059c5?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 8: Sınırlar](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-8-s%C4%B1n%C4%B1rlar-eca04f68adfd?source=rss-6300fe4bff09------2)
 - [Creational Tasarım Desenleri: Abstract Factory Tasarım Deseni](https://medium.com/@berkanserbes/creational-tasar%C4%B1m-desenleri-abstract-factory-tasar%C4%B1m-deseni-64f56b64fa74?source=rss-6300fe4bff09------2)
