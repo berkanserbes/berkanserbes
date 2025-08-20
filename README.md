@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Event Emitters in Node.js: A Complete Guide with Examples](https://javascript.plainenglish.io/event-emitters-in-node-js-a-complete-guide-with-examples-79378d14ce62?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 10: Sınıflar](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-10-s%C4%B1n%C4%B1flar-af7f8ec72673?source=rss-6300fe4bff09------2)
 - [Structural Tasarım Desenleri: Adapter Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-adapter-tasar%C4%B1m-deseni-6d31acb8115f?source=rss-6300fe4bff09------2)
 - [Structural Tasarım Desenleri: Facade Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-facade-tasar%C4%B1m-deseni-eaa0db396446?source=rss-6300fe4bff09------2)
 - [Creational Tasarım Desenleri: Prototype Tasarım Deseni](https://medium.com/@berkanserbes/creational-tasar%C4%B1m-desenleri-prototype-tasar%C4%B1m-deseni-929a7276e177?source=rss-6300fe4bff09------2)
-- [Clean Code Bölüm 9: Unit Tests](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-9-unit-tests-514a0ee4f018?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
