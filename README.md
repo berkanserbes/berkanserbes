@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Structural Tasarım Desenleri: Composite Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-composite-tasar%C4%B1m-deseni-6bd865d19fb8?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 13 &lpar;2/2&rpar;: Eşzamanlılık](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-13-2-2-e%C5%9Fzamanl%C4%B1l%C4%B1k-2560ea84fc49?source=rss-6300fe4bff09------2)
 - [Structural Tasarım Desenleri: Bridge Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-bridge-tasar%C4%B1m-deseni-cd31dc479d21?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 13 &lpar;1/2&rpar;: Eşzamanlılık](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-13-1-2-e%C5%9Fzamanl%C4%B1l%C4%B1k-25095f8f072b?source=rss-6300fe4bff09------2)
 - [Clean Code Bölüm 12: Emergency](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-12-emergency-ca8ac987b0dc?source=rss-6300fe4bff09------2)
-- [Clean Code Bölüm 11: Sistemler](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-11-sistemler-f1f74fe221ff?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
