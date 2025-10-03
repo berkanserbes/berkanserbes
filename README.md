@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Common Table Expressions](https://medium.com/@berkanserbes/sql-common-table-expressions-d19c60b1314c?source=rss-6300fe4bff09------2)
 - [JavaScript’te prototype ve __proto__ Kavramları](https://medium.com/@berkanserbes/javascriptte-prototype-ve-proto-kavramlar%C4%B1-50943892bbe1?source=rss-6300fe4bff09------2)
 - [Structural Tasarım Desenleri: Decorator Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-decorator-tasar%C4%B1m-deseni-b053f30d1e2a?source=rss-6300fe4bff09------2)
 - [SQL Views](https://medium.com/@berkanserbes/sql-views-34f91cda7c11?source=rss-6300fe4bff09------2)
 - [Structural Tasarım Desenleri: Composite Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-composite-tasar%C4%B1m-deseni-6bd865d19fb8?source=rss-6300fe4bff09------2)
-- [Clean Code Bölüm 13 &lpar;2/2&rpar;: Eşzamanlılık](https://medium.com/@berkanserbes/clean-code-b%C3%B6l%C3%BCm-13-2-2-e%C5%9Fzamanl%C4%B1l%C4%B1k-2560ea84fc49?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
