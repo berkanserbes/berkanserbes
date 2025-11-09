@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Behavioral Tasarım Desenleri: Observer Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-observer-tasar%C4%B1m-deseni-3da340a8154e?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Template Method Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-template-method-tasar%C4%B1m-deseni-e8cb9995b978?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Strategy Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-strategy-tasar%C4%B1m-deseni-5b28c70728c5?source=rss-6300fe4bff09------2)
 - [SQL Common Table Expressions](https://medium.com/@berkanserbes/sql-common-table-expressions-d19c60b1314c?source=rss-6300fe4bff09------2)
 - [JavaScript’te prototype ve __proto__ Kavramları](https://medium.com/@berkanserbes/javascriptte-prototype-ve-proto-kavramlar%C4%B1-50943892bbe1?source=rss-6300fe4bff09------2)
-- [Structural Tasarım Desenleri: Decorator Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-decorator-tasar%C4%B1m-deseni-b053f30d1e2a?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
