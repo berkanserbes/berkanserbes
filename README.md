@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Behavioral Tasarım Desenleri: Command Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-command-tasar%C4%B1m-deseni-923646e573fd?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Chain of Responsibility Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-chain-of-responsibility-tasar%C4%B1m-deseni-42d606a239d6?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Observer Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-observer-tasar%C4%B1m-deseni-3da340a8154e?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Template Method Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-template-method-tasar%C4%B1m-deseni-e8cb9995b978?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Strategy Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-strategy-tasar%C4%B1m-deseni-5b28c70728c5?source=rss-6300fe4bff09------2)
-- [SQL Common Table Expressions](https://medium.com/@berkanserbes/sql-common-table-expressions-d19c60b1314c?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
