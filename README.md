@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Structural Tasarım Desenleri: Flyweight Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-flyweight-tasar%C4%B1m-deseni-bf33baed5d46?source=rss-6300fe4bff09------2)
 - [Structural Tasarım Desenleri: Proxy Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-proxy-tasar%C4%B1m-deseni-d5d582afbe86?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Mediator Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-mediator-tasar%C4%B1m-deseni-9c637162ddf2?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Iterator Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-iterator-tasar%C4%B1m-deseni-bff79724a78e?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Command Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-command-tasar%C4%B1m-deseni-923646e573fd?source=rss-6300fe4bff09------2)
-- [Behavioral Tasarım Desenleri: Chain of Responsibility Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-chain-of-responsibility-tasar%C4%B1m-deseni-42d606a239d6?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
