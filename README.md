@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Çağında Worktree ile Paralel Geliştirme](https://medium.com/@berkanserbes/ai-agent-%C3%A7a%C4%9F%C4%B1nda-worktree-ile-paralel-geli%C5%9Ftirme-9c491ee7834d?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Visitor Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-visitor-tasar%C4%B1m-deseni-19c14d492e81?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Memento Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-memento-tasar%C4%B1m-deseni-5d596a8d7678?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: State Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-state-tasar%C4%B1m-deseni-4da83dff728a?source=rss-6300fe4bff09------2)
 - [Structural Tasarım Desenleri: Flyweight Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-flyweight-tasar%C4%B1m-deseni-bf33baed5d46?source=rss-6300fe4bff09------2)
-- [Structural Tasarım Desenleri: Proxy Tasarım Deseni](https://medium.com/@berkanserbes/structural-tasar%C4%B1m-desenleri-proxy-tasar%C4%B1m-deseni-d5d582afbe86?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
