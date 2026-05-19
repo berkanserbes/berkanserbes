@@ -31,11 +31,11 @@ Outside of coding, I enjoy sharing what I learn. I write articles on [Medium](ht
 
 ## :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [In the Age of AI, the Most Important Skill for Developers Is No Longer Writing Code](https://medium.com/@berkanserbes/in-the-age-of-ai-the-most-important-skill-for-developers-is-no-longer-writing-code-a51ecb18264e?source=rss-6300fe4bff09------2)
 - [The Most Expensive Thing in Software Is Context](https://medium.com/@berkanserbes/the-most-expensive-thing-in-software-is-context-f8c62c076670?source=rss-6300fe4bff09------2)
 - [AI Agent Çağında Worktree ile Paralel Geliştirme](https://medium.com/@berkanserbes/ai-agent-%C3%A7a%C4%9F%C4%B1nda-worktree-ile-paralel-geli%C5%9Ftirme-9c491ee7834d?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Visitor Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-visitor-tasar%C4%B1m-deseni-19c14d492e81?source=rss-6300fe4bff09------2)
 - [Behavioral Tasarım Desenleri: Memento Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-memento-tasar%C4%B1m-deseni-5d596a8d7678?source=rss-6300fe4bff09------2)
-- [Behavioral Tasarım Desenleri: State Tasarım Deseni](https://medium.com/@berkanserbes/behavioral-tasar%C4%B1m-desenleri-state-tasar%C4%B1m-deseni-4da83dff728a?source=rss-6300fe4bff09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
